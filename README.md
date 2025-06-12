@@ -2,5 +2,5 @@
 - 👀 I’m interested in full-stack web development, API design, and building scalable web applications.
 - 🌱 I’m currently learning advanced Ruby on Rails concepts and exploring front-end frameworks like React.
 - 💞️ I’m looking to collaborate on Ruby on Rails or full-stack projects.
-- 📫 How to reach me nivetha9804@gmail.com
+- 📫 How to reach me: nivetha9804@gmail.com
 - 😄 Pronouns: she/her
